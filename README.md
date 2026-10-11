@@ -15,6 +15,13 @@ This repository is my development workspace for learning frontend engineering an
 
 No application framework, language, or package manager has been selected for this workspace yet. The stack can be documented here when project tools are chosen.
 
+## Repository contents
+
+- `README.md` explains the workspace and its current status.
+- `AGENTS.md` contains guidance for AI-assisted work in this repository.
+- `LICENSE` provides the MIT License; replace its copyright placeholder with your name or organization.
+- `.gitignore` lists files and folders Git should leave untracked, including secret-bearing environment files.
+
 ## Prerequisites
 
 - Git, to inspect and manage the repository history.
